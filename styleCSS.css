@@ -1,0 +1,34 @@
+#h{
+     
+font-family: 'Secular One', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+body{
+    text-align: center;
+    background-image: linear-gradient(#29fffb 0%,#28cf0e 100%)
+}
+#n{
+    margin-top: 10px;
+}
+img{
+    margin-left:10px;
+    margin-right:10px;
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
+#p1{
+   
+font-family: 'Secular One', sans-serif;
+    font-size: 23px;
+    text-align: center;
+}
+#heading{
+    font-family: 'Lobster', cursive;
+}
+.m{
+  
+font-family: 'Secular One', sans-serif;
+}

@@ -1,5 +1,5 @@
 #h{
-    font-family: 'Pacifico', cursive;
+    font-family: 'Secular One', sans-serif;
     font-size: 20px;
     text-align: center;
 }
@@ -19,7 +19,7 @@ img:hover{
     transform: scale(0.9);
 }
 #hh{
-    font-family: 'Pacifico', cursive;
+    font-family: 'Secular One', sans-serif;
     font-size: 28px;
     text-align: center;
 }
@@ -27,6 +27,9 @@ img:hover{
     font-family: 'Lobster', cursive;
 }
 .m{
-    font-family: 'Bangers', cursive;
-font-family: 'Lobster', cursive;
+ 
+    font-family: 'Secular One', sans-serif;
 }
+
+font-family: 'Bangers', cursive;
+font-family: 'Lobster', cursive;

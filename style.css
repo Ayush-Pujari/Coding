@@ -83,3 +83,22 @@ img:hover{
   font-family: 'Secular One', sans-serif;
     display: inline;
 }
+.environment_li{
+  margin-top: 1px;
+}
+.environment_li h4{
+  border-bottom: 1px solid black;
+  
+}
+#i1{
+height: 350px;
+width: 300px;
+}
+#p1{
+margin-top: 90px;
+margin-bottom: 30px;
+}
+#li1{
+margin-top: 3s0px;
+margin-bottom: 30px;
+}

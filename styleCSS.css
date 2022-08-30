@@ -22,7 +22,7 @@ img:hover{
 #p1{
    
 font-family: 'Secular One', sans-serif;
-    font-size: 23px;
+     
     text-align: center;
 }
 #heading{
@@ -88,6 +88,7 @@ font-family: 'Secular One', sans-serif;
 #p1{
   margin-top: 90px;
   margin-bottom: 30px;
+  font-family: 'Secular One', sans-serif;
 }
 #li1{
   margin-top: 30px;
